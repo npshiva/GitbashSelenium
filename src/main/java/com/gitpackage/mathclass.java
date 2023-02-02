@@ -15,9 +15,11 @@ public class mathclass {
 		System.out.println("min number of a and b: "+c);
 		System.out.println(Math.ceil(c));
 		System.out.println(Math.floor(c));
-		
-		
 		System.out.println("Math Performed");
+		System.out.println("calculated");
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 23d369334f680f2d7575d099e4afe29c97bc148c
 
 	}
 
