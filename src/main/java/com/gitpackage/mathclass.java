@@ -15,6 +15,7 @@ public class mathclass {
 		System.out.println("min number of a and b: "+c);
 		System.out.println(Math.ceil(c));
 		System.out.println(Math.floor(c));
+		System.out.println("calculated");
 
 	}
 
